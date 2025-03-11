@@ -1,9 +1,9 @@
 {
-  "name": "Ponnenult",
+  "name": "MaoGi",
   "version": "v2017",
-  "homepage": "https://ponnenult.github.io",
+  "homepage": "https://maogi1201.github.io",
   "authors": [
-    "Ponnenult <ponnenults@gmail.com>"
+    "MaoGi <vancii1201@m163.com>"
   ],
   "main": "index.html",
   "private": true,
